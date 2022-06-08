@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Sampandey001/ZERO-TWO-MD/fork">
-    <img src="https://img.shields.io/github/forks/Sampandey001/ZERO-TWO-MD?label=Fork&style=social">
+    
     
     
   <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
