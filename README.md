@@ -7,17 +7,17 @@
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
 <p align="center">
-  <a href="https://github.com/fantox001/ZERO-TWO-MD/fork">
-    <img src="https://img.shields.io/github/forks/fantox001/ZERO-TWO-MD?label=Fork&style=social">
+  <a href="https://github.com/Sampandey001/ZERO-TWO-MD/fork">
+    <img src="https://img.shields.io/github/forks/Sampandey001/ZERO-TWO-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/fantox001/Zero-Two-Md/stargazers">
-    <img src="https://img.shields.io/github/stars/fantox001/Zero-Two-Md/?style=social">
+  <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
+    <img src="https://img.shields.io/github/stars/Sampandey001/Zero-Two-Md/?style=social">
   </a>
 
 <p align="center">
-  <a href="httsp://github.com/fantox001/Zero-Two-Md">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/Fantox001/Zero-Two-Md?color=purple&label=Repo%20Size&style=plastic <p align="center">
+  <a href="httsp://github.com/Sampandey001/Zero-Two-Md">
+    <img src="https://img.shields.io/github/repo-size/Sampandey001/Zero-Two-Md?color=purple&label=Repo%20Size&style=plastic <p align="center">
 
 ## Thanks for Everything 
 - [XEON](https://github.com/dgxeon)
@@ -27,9 +27,9 @@
 
  ### Simple Method 
 
-[![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://repl.it/@sampandey)
+[![Run on Repl.it](https://repl.it/badge/github/Sampandey001/ZERO-TWO-MD)](https://repl.it/@sampandey)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fantox001/Zero-Two-Md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
 ## Whatsapp Group
 
@@ -38,7 +38,7 @@
 
 
 ### Guide
-> [Zero Two Wiki (Full Guide)](https://github.com/fantox001/Zero-Two-Md/wiki) 
+> [Zero Two Wiki (Full Guide)](https://github.com/Sampandey001/Zero-Two-Md/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
@@ -52,7 +52,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/fantox001/Zero-Two-Md
+git clone https://github.com/Sampandey001/Zero-Two-Md
 cd Zero-Two-Md
 npm start
 ```
