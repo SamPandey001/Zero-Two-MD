@@ -43,9 +43,9 @@
 > [Zero Two Wiki (Full Guide)](https://github.com/Sampandey001/Zero-Two-Md/wiki) 
 
 ###EXAMPLE
-![IMG_20220608_162204](https://user-images.githubusercontent.com/104565822/172599827-a48e1aa3-32e6-4e4d-9438-e7b9ef71d431.jpg)
 
-![IMG_20220608_162306](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
+
+[BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
 
 
 
