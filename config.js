@@ -38,7 +38,7 @@ global.available = true //auto available (true to on, false to off)
 var _0x39a629=_0x3707;(function(_0x3558fb,_0x2f8f90){var _0x560da3=_0x3707,_0x317876=_0x3558fb();while(!![]){try{var _0x4f6c62=parseInt(_0x560da3(0x128))/0x1+-parseInt(_0x560da3(0x127))/0x2+-parseInt(_0x560da3(0x125))/0x3*(-parseInt(_0x560da3(0x11f))/0x4)+-parseInt(_0x560da3(0x122))/0x5+-parseInt(_0x560da3(0x11d))/0x6*(-parseInt(_0x560da3(0x123))/0x7)+-parseInt(_0x560da3(0x11c))/0x8*(-parseInt(_0x560da3(0x129))/0x9)+-parseInt(_0x560da3(0x120))/0xa;if(_0x4f6c62===_0x2f8f90)break;else _0x317876['push'](_0x317876['shift']());}catch(_0x5ea152){_0x317876['push'](_0x317876['shift']());}}}(_0x5018,0x41138),global[_0x39a629(0x121)]=fs[_0x39a629(0x126)]('./assets/img/zt.jpg'),global[_0x39a629(0x11e)]=fs['readFileSync']('./assets/img/zt.jpg'),global['err4r']=fs[_0x39a629(0x126)](_0x39a629(0x124)),global['thumb']=fs['readFileSync']('./assets/img/zt.jpg'));function _0x3707(_0xe7bf43,_0x38bb66){var _0x50188a=_0x5018();return _0x3707=function(_0x370761,_0x5873a5){_0x370761=_0x370761-0x11c;var _0x47cced=_0x50188a[_0x370761];return _0x47cced;},_0x3707(_0xe7bf43,_0x38bb66);}function _0x5018(){var _0x53ef84=['557150DrhUWW','thum','2522310pQQOAL','14SVGkFl','./assets/img/zt.jpg','78XxhuEI','readFileSync','367238hsnNmA','346789RREzXR','103167HTlrJg','296PnOiar','184218pNjiMq','log0','27388eSKveb'];_0x5018=function(){return _0x53ef84;};return _0x5018();} 
 global.ytname = "YT: Fantox Gaming"
 global.location = "India, West-Bengal, Kolkata"
-global.botscript = "https://github.com/Fantox001/Zero-Two-Md"
+global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
 global.antitags = true
 global.rkyt = []
 global.banUser = []
