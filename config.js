@@ -26,7 +26,7 @@
 
 
 */
-constconst fs = require('fs')
+const fs = require('fs')
 const chalk = require('chalk')
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
