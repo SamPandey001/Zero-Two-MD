@@ -27,9 +27,17 @@
 
  ### Simple Method 
                                                                                                                                              
-#Please don't use this repl.it until I remove this line
+#### How to Get QR
+- Go on given Link
+- Click on Play/Run code
+- Scan Qr Code
+- Click on Show Files and Download your session.sam.json
+- Delete Session.sam.json from there coz it can give your whatsapp access to other
+-Thanks and Enjoy
+- Example 
+[Screenshot (93)](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
                                                                                                                                              
-[![Run on Repl.it](https://repl.it/badge/github/Sampandey001/ZERO-TWO-MD)](https://repl.it/@sampandey)
+[![Run on Repl.it](https://rephttps://replit.com/@sampandey/Zero-Two-Md?v=1https://replit.com/@sampandey/Zero-Two-Md?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
