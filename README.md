@@ -98,7 +98,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@fantox`](https://github.com/FantoX001) & `Zero Two Inc` working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
