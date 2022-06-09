@@ -56,6 +56,216 @@
 
 [BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
 
+### List of Commands Available in Zero Two
+  <details>
+  <summary>List (Touch Here)</summary>
+<p>
+
+     🍁 Group Menu 🍁 
+  -  ${prefix}grouplink
+  -  ${prefix}ephemeral [option]
+  -  ${prefix}setgrouppp
+  -  ${prefix}setname [text]
+  -  ${prefix}group [option]
+  -  ${prefix}editinfo [option]
+  -  ${prefix}ginfo
+  -  ${prefix}add @user
+  -  ${prefix}kick @user
+  -  ${prefix}promote @user
+  -  ${prefix}demote @user
+  
+    🍁 Sticker Menu 🍁 
+  -  ${prefix}cry
+  -  ${prefix}lick
+  -  ${prefix}hug
+  -  ${prefix}pat
+  -  ${prefix}bite
+  -  ${prefix}yeet
+  -  ${prefix}bullly
+  -  ${prefix}bonk
+  -  ${prefix}wink
+  -  ${prefix}poke
+  -  ${prefix}slap
+  -  ${prefix}smile
+  -  ${prefix}wave
+  -  ${prefix}awoo
+  -  ${prefix}smug
+  -  ${prefix}glomp
+  -  ${prefix}happy
+  -  ${prefix}cringe
+  -  ${prefix}cuddle
+  -  ${prefix}highfive
+  -  ${prefix}shinobu
+  -  ${prefix}megumin
+  -  ${prefix}handhold
+
+    🍁 Downloader Menu 🍁 
+  -  ${prefix}yt [url/name]
+  -  ${prefix}song [url/name]
+  -  ${prefix}video [url/name]
+  -  ${prefix}play [url/name]
+  -  ${prefix}ytmp3 [url]
+  -  ${prefix}ytmp4 [url]
+  -  ${prefix}fb [url] (beta
+  -  ${prefix}instagram [url]
+  -  ${prefix}twitter [url]
+  -  ${prefix}twittermp3 [url]
+  -  ${prefix}pinterestdl [url]
+  -  ${prefix}getmusic [query]
+  -  ${prefix}getvideo [query]
+  -  ${prefix}umma [url]
+  -  ${prefix}joox [query]
+  -  ${prefix}soundcloud [url]
+  
+    🍁 Search Menu 🍁 
+  -  ${prefix}play [query]
+  -  ${prefix}yts [query]
+  -  ${prefix}google [query]
+  -  ${prefix}gimage [query]
+  -  ${prefix}pinterest [query]
+  -  ${prefix}wallpaper [query]
+  -  ${prefix}ytsearch [query]
+  
+    🍁 Random Menu 🍁 
+  -  ${prefix}coffee
+  -  ${prefix}couplepp
+  -  ${prefix}waifu
+  -  ${prefix}Neko
+  -  ${prefix}HNeko (NSFW)
+  -  ${prefix}bj (NSFW)
+  -  ${prefix}Nwaifu (NSFW)
+  
+    🍁 Fun Menu 🍁 
+  -  ${prefix}couple
+  -  ${prefix}mysoulmate
+  -  ${prefix}math [mode] 
+  -  ${prefix}quiz [mode]
+  
+    🍁 Voice Changer Menu 🍁 
+  -  ${prefix}bass
+  -  ${prefix}blown
+  -  ${prefix}deep
+  -  ${prefix}earrape
+  -  ${prefix}fast
+  -  ${prefix}fat
+  -  ${prefix}nightcore
+  -  ${prefix}reverse
+  -  ${prefix}robot
+  -  ${prefix}slow
+  -  ${prefix}squirrel
+
+    🍁 Text Pro Menu 🍁  (Beta Stage)
+  -  ${prefix}3dchristmas
+  -  ${prefix}candy
+  -  ${prefix}sparklechristmas
+  -  ${prefix}waterpipe
+  -  ${prefix}fiction
+  -  ${prefix}rock
+  -  ${prefix}lava
+  -  ${prefix}honey
+  -  ${prefix}ice
+  -  ${prefix}3ddeepsea
+  -  ${prefix}americanflag
+  -  ${prefix}3dscifi
+  -  ${prefix}3drainbow
+  -  ${prefix}3dwaterpipe
+  -  ${prefix}halloweenskeleton
+  -  ${prefix}sketch
+  -  ${prefix}bluecircuit
+  -  ${prefix}space
+  -  ${prefix}metallic
+  -  ${prefix}fiction
+  -  ${prefix}greenhorror
+  -  ${prefix}transformer
+  -  ${prefix}berry
+  -  ${prefix}thunder
+  -  ${prefix}magma
+  -  ${prefix}3dcrackedstone
+  -  ${prefix}3dneonlight
+  -  ${prefix}impressiveglitch
+  -  ${prefix}naturalleaves
+  -  ${prefix}fireworksparkle
+  -  ${prefix}matrix
+  -  ${prefix}dropwater
+  -  ${prefix}harrypotter
+  -  ${prefix}foggywindow
+  -  ${prefix}neondevils
+  -  ${prefix}christmasholiday
+  -  ${prefix}3dgradient
+  -  ${prefix}blackpink
+  -  ${prefix}gluetext
+  
+    🍁 Horoscope Menu 🍁 
+  -  ${prefix}hockeynumber
+  -  ${prefix}dreammeaning
+  -  ${prefix}namemeaning
+  -  ${prefix}fortunetelling
+  -  ${prefix}marriageprediction
+  -  ${prefix}wife&husband
+  -  ${prefix}fortunetelling2
+  -  ${prefix}matchname
+  -  ${prefix}couplematch
+  -  ${prefix}married
+  -  ${prefix}businessnature
+  -  ${prefix}sustenance
+  -  ${prefix}profession
+  -  ${prefix}fate
+  -  ${prefix}potentialdisease
+  -  ${prefix}tarot
+  -  ${prefix}fengshui
+  -  ${prefix}goodday
+  -  ${prefix}badday
+  -  ${prefix}unluckyday
+  -  ${prefix}dragonday
+  -  ${prefix}sustenance2
+  -  ${prefix}luck
+  -  ${prefix}weton
+  -  ${prefix}character
+  -  ${prefix}luck2
+  -  ${prefix}fishing
+  -  ${prefix}fertiletime
+  -  ${prefix}zodiac
+  -  ${prefix}shio
+
+    🍁 Convert Menu 🍁 
+  -  ${prefix}photo
+  -  ${prefix}imagesticker
+  -  ${prefix}toimg
+  -  ${prefix}removebg
+  -  ${prefix}sticker
+  -  ${prefix}mp3
+  -  ${prefix}mp4audio
+  -  ${prefix}emoji (Beta)
+  -  ${prefix}emojimix (Beta)
+  -  ${prefix}tovideo
+  -  ${prefix}togif
+  -  ${prefix}
+  -  ${prefix}tovn
+  -  ${prefix}ebinary
+  -  ${prefix}dbinary
+  -  ${prefix}styletext
+  -  ${prefix}smeme
+   
+    🍁 Misc Menu 🍁 
+  -  ${prefix}ping
+  -  ${prefix}owner
+  -  ${prefix}donate
+  -  ${prefix}menu / ${prefix}help / ${prefix}?
+  -  ${prefix}delete
+  -  ${prefix}chatinfo
+  -  ${prefix}quoted
+  -  ${prefix}listpc
+  -  ${prefix}listgc
+  -  ${prefix}listonline
+  -  ${prefix}report (report bug to owner)
+  -  ${prefix}repuest (request anything from owner)
+  
+  
+    And A lot More 
+  
+
+</details>
+</p>
 
 
 ### The Hard Method (Not Recommend)
