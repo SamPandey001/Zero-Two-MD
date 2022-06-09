@@ -36,7 +36,7 @@
 -Thanks and Enjoy
 - Example 
 
-[Screenshot (93)](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
+[A SCREENSHOT OF session.sam.json](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
                                                                                                                                              
 [![Run on Repl.it](https://rephttps://replit.com/@sampandey/Zero-Two-Md?v=1https://replit.com/@sampandey/Zero-Two-Md?v=1)
 
