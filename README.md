@@ -49,7 +49,7 @@
 
 
 ### Guide
-> [Zero Two Wiki (Full Guide)](https://github.com/Sampandey001/Zero-Two-Md/wiki) 
+> [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
 
 ### EXAMPLE
 
