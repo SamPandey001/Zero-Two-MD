@@ -68,7 +68,7 @@ global.sessionName = 'session.sam' //session name
 global.linkgrupss = "https://instagam.com/ikshwaku.pandey" //ur gc link
 global.linkgrupss2 = "https://instagram.com/ikshwaku.pandey" //ur gc link2
 global.websitex = "https://instagram.com/ikshwaku.pandey" //ur website
-global.prefa = ['-'] //prefix
+global.prefa = ['!'] //prefix
 global.sp = '✨' //design
 global.mess = {
     success: 'Done ✓',
