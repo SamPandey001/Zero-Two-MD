@@ -56,6 +56,8 @@
 
 [BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
 
+##This bot is mainly created on prefix - if you change this buttons will not work
+
 ### List of Commands Available in Zero Two
   <details>
   <summary>List (Touch Here)</summary>
