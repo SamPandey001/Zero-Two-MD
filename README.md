@@ -38,7 +38,7 @@
 
 [A SCREENSHOT OF session.sam.json](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
                                                                                                                                              
-[![Run on Repl.it](https://repl.it/badge/github/SamPandey001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two-Md?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/SamPandey001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two-Md?outputonly=1&lite=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
