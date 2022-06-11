@@ -51,7 +51,7 @@
 ### Guide
 > [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
 
-#Installatin/deployment Video
+# Installatin/deployment Video
 <details>
 <summary>Installation/deployment Video </summary>
 <p>
