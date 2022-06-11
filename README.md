@@ -51,6 +51,14 @@
 ### Guide
 > [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
 
+#Installatin/deployment Video
+<details>
+<summary>Installation/deployment Video </summary>
+<p>
+https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356-b6bc-430bf2781c9a.mp4
+  </details>
+  </p>
+
 ### EXAMPLE
 
 
@@ -58,7 +66,7 @@
 
 ##This bot is mainly created on prefix - if you change this buttons will not work
 
-### List of Commands Available in Zero Two
+#List of Commands Available in Zero Two
   <details>
   <summary>List (Touch Here)</summary>
 <p>
