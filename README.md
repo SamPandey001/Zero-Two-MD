@@ -11,7 +11,7 @@
     
     
     
-  <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
+ <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
     <img src="https://img.shields.io/github/stars/Sampandey001/Zero-Two-Md/?style=social">
   </a>
 
