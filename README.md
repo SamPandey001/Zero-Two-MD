@@ -28,17 +28,18 @@
  ### Simple Method 
                                                                                                                                              
 #### How to Get QR
-- Go on given Link
-- Click on Play/Run code
-- Scan Qr Code
-- Click on Show Files and Download your session.sam.json
-- Delete Session.sam.json from there coz it can give your whatsapp access to other
--Thanks and Enjoy
-- Example 
+- First Open Github Link
+- Click on Fork Button upwards right corner
+- Click on deploy button and have patience
+- Deployment Process will take almost 10 mins
+- After that open heroku choose your application go in resources section and turn on dynos by clicking on that pencil.
+- Wait 12 second and Tap on Open App
+- Scan Qr and your bot is working now
+- type -json and you'll get your session.sam.json text
+- Go in your forked repo create file with name session.sam.json and paste it there
+- Connect Your app with GitHub and deploy branch and it's done.
 
-[A SCREENSHOT OF session.sam.json](https://user-images.githubusercontent.com/104565822/172769909-a780236b-ac09-4ccf-acb6-0e120266ea65.png)
-                                                                                                                                             
-[![Run on Repl.it](https://repl.it/badge/github/SamPandey001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two-Md?outputonly=1&lite=1)
+- Thank me later.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
@@ -51,16 +52,7 @@
 ### Guide
 > [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
 
-# Installation/deployment Video
-<details>
-<summary>Installation/deployment Video </summary>
-<p>
-https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356-b6bc-430bf2781c9a.mp4
-  </details>
-  </p>
-
 ### EXAMPLE
-
 
 [BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
 
