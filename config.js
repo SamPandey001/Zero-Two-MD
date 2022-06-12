@@ -59,7 +59,7 @@ global.sessionName = 'session.sam' //session name
 global.linkgrupss = "https://instagam.com/pinomodz" //ur gc link
 global.linkgrupss2 = "https://instagram.com/pinomodz" //ur gc link2
 global.websitex = "https://instagram.com/pinomodz" //ur website
-global.prefa = ['-'] //prefix
+global.prefa = ['-','.'] //prefix
 global.sp = '✨' //design
 global.mess = {
     success: 'Done ✓',
