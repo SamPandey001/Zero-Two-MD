@@ -1,2 +1,2 @@
-web: pm2 start index.js --deep-monitoring --attach
+worker: pm2 start index.js --deep-monitoring --attach
 
