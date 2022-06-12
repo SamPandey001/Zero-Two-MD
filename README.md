@@ -30,15 +30,6 @@
 
 <a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-
-
-### Guide
-> [Zero Two Wiki (Full Guide)](https://github.com/SamPandey001/Zero-Two-MD/wiki/ZERO-TWO) 
-
-### EXAMPLE
-
-[BOT COMMAND EXAMPLE](https://user-images.githubusercontent.com/104565822/172600030-60ec3c0a-dae2-4c8b-9e82-ca98b6216d91.jpg)
-
 ##This bot is mainly created on prefix - if you change this buttons will not work
 
 #List of Commands Available in Zero Two
