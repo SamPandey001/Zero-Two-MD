@@ -5,42 +5,24 @@
 
 <p align="center"> 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
-
-<p align="center">
-  <a href="https://github.com/Sampandey001/ZERO-TWO-MD/fork">
-    
-    
-    
- <a href="https://github.com/Sampandey001/Zero-Two-Md/stargazers">
-    <img src="https://img.shields.io/github/stars/Sampandey001/Zero-Two-Md/?style=social">
-  </a>
-
-<p align="center">
-  <a href="httsp://github.com/Sampandey001/Zero-Two-Md">
-    <img src="https://img.shields.io/github/repo-size/Sampandey001/Zero-Two-Md?color=purple&label=Repo%20Size&style=plastic <p align="center">
-
+  
 ## Thanks for Everything 
 - [XEON](https://github.com/dgxeon)
 
 ![Total Repo views](https://gpvc.arturio.dev/sampandey001)
-
-
- ### Simple Method 
-                                                       
-### How to get session.sam.json
-
-- First Open Github Link
-- Click on Fork Button upwards right corner
-- Click on deploy button and have patience
-- Deployment Process will take almost 10 mins
-- After that open heroku choose your application go in resources section and turn on dynos by clicking on that pencil.
-- Wait 12 second and Tap on Open App
+                                                                                                                                             
+### How to enable Zero-Two On your number
+- 1 First Open `Github Link Of Zero Two`
+- 2 Click on Fork Button upwards right corner
+- 3 Click on deploy button and have patience,process may take upto 10 min
+- `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
+- Wait 12 second and Tap on `Open App`
 - Scan Qr and your bot is working now
 - type -json and you'll get your session.sam.json text
 - Go in your forked repo create file with name session.sam.json and paste it there
-- Connect Your app with GitHub and deploy branch and it's done.
+- Connect Your app with GitHub and deploy branch and it's `Done`.
 
-- Thank me later.
+- `Thank me later.`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
