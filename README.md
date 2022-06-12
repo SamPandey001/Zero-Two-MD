@@ -26,8 +26,9 @@
 
 
  ### Simple Method 
-                                                                                                                                             
-#### How to Get QR
+                                                       
+### How to get session.sam.json
+
 - First Open Github Link
 - Click on Fork Button upwards right corner
 - Click on deploy button and have patience
