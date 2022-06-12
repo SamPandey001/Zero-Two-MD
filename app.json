@@ -8,6 +8,9 @@
     "buildpacks": [{
             "url": "heroku/nodejs"
         },
+          {
+             "url": "https://github.com/ItsJimi/heroku-buildpack-pm2"
+           },
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
         },
@@ -19,7 +22,7 @@
         }
     ],
     "formation": {
-        "worker": {
+        "web": {
             "quantity": 1,
             "size": "free"
         }
