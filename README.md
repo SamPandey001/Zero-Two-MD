@@ -30,9 +30,9 @@
 
 <a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-##This bot is mainly created on prefix - if you change this buttons will not work
+## This bot is mainly created on prefix - if you change this buttons will not work
 
-#List of Commands Available in Zero Two
+# List of Commands Available in Zero Two
   <details>
   <summary>List (Touch Here)</summary>
 <p>
