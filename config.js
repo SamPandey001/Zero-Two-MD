@@ -16,6 +16,7 @@
                                                                        Thanks to Team Zero and Xeon
                                                                         
 */
+
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -25,12 +26,12 @@ global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
-var _0x39a629=_0x3707;(function(_0x3558fb,_0x2f8f90){var _0x560da3=_0x3707,_0x317876=_0x3558fb();while(!![]){try{var _0x4f6c62=parseInt(_0x560da3(0x128))/0x1+-parseInt(_0x560da3(0x127))/0x2+-parseInt(_0x560da3(0x125))/0x3*(-parseInt(_0x560da3(0x11f))/0x4)+-parseInt(_0x560da3(0x122))/0x5+-parseInt(_0x560da3(0x11d))/0x6*(-parseInt(_0x560da3(0x123))/0x7)+-parseInt(_0x560da3(0x11c))/0x8*(-parseInt(_0x560da3(0x129))/0x9)+-parseInt(_0x560da3(0x120))/0xa;if(_0x4f6c62===_0x2f8f90)break;else _0x317876['push'](_0x317876['shift']());}catch(_0x5ea152){_0x317876['push'](_0x317876['shift']());}}}(_0x5018,0x41138),global[_0x39a629(0x121)]=fs[_0x39a629(0x126)]('./assets/img/zt.jpg'),global[_0x39a629(0x11e)]=fs['readFileSync']('./assets/img/zt.jpg'),global['err4r']=fs[_0x39a629(0x126)](_0x39a629(0x124)),global['thumb']=fs['readFileSync']('./assets/img/zt.jpg'));function _0x3707(_0xe7bf43,_0x38bb66){var _0x50188a=_0x5018();return _0x3707=function(_0x370761,_0x5873a5){_0x370761=_0x370761-0x11c;var _0x47cced=_0x50188a[_0x370761];return _0x47cced;},_0x3707(_0xe7bf43,_0x38bb66);}function _0x5018(){var _0x53ef84=['557150DrhUWW','thum','2522310pQQOAL','14SVGkFl','./assets/img/zt.jpg','78XxhuEI','readFileSync','367238hsnNmA','346789RREzXR','103167HTlrJg','296PnOiar','184218pNjiMq','log0','27388eSKveb'];_0x5018=function(){return _0x53ef84;};return _0x5018();} 
+global.thum = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
+global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
+
 global.ytname = "YT: Fantox Gaming"
-global.mongodb = process.env.MONGODB || "mongodb+srv://ikshwaku95:ikshwaku95@ikshwaku95.qo0bz.mongodb.net/?retryWrites=true&w=majority"
-
-
-global.port = process.env.PORT || 5000
 global.location = "India, West-Bengal, Kolkata"
 global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
 global.antitags = true
@@ -46,22 +47,24 @@ global.wlcm = []
 global.gcrevoke = []
 var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x2635();return _0x41cc=function(_0x41cc3a,_0x231162){_0x41cc3a=_0x41cc3a-0x1ee;var _0x1a7446=_0x2635b7[_0x41cc3a];return _0x1a7446;},_0x41cc(_0x40a8d6,_0x3701e2);}(function(_0x1ecbf2,_0x7bdf04){var _0x5aa09a=_0x41cc,_0x3df619=_0x1ecbf2();while(!![]){try{var _0x5cc6d3=-parseInt(_0x5aa09a(0x1f7))/0x1*(-parseInt(_0x5aa09a(0x208))/0x2)+-parseInt(_0x5aa09a(0x20a))/0x3+parseInt(_0x5aa09a(0x1fe))/0x4+-parseInt(_0x5aa09a(0x213))/0x5*(parseInt(_0x5aa09a(0x214))/0x6)+-parseInt(_0x5aa09a(0x1ef))/0x7+parseInt(_0x5aa09a(0x1f4))/0x8*(-parseInt(_0x5aa09a(0x1f1))/0x9)+-parseInt(_0x5aa09a(0x207))/0xa*(-parseInt(_0x5aa09a(0x211))/0xb);if(_0x5cc6d3===_0x7bdf04)break;else _0x3df619['push'](_0x3df619['shift']());}catch(_0x2d5d82){_0x3df619['push'](_0x3df619['shift']());}}}(_0x2635,0xb11de),global[_0x1a32e8(0x203)]={'zenz':_0x1a32e8(0x1f3),'amel':_0x1a32e8(0x1fa),'bx':_0x1a32e8(0x201),'hardianto':_0x1a32e8(0x20e),'jonaz':_0x1a32e8(0x1fc),'neoxr':_0x1a32e8(0x212),'xteam':_0x1a32e8(0x1ee),'nzcha':_0x1a32e8(0x206),'bg':_0x1a32e8(0x204),'fdci':_0x1a32e8(0x1f6),'rey':'https://server-api-rey.herokuapp.com','dzx':_0x1a32e8(0x1f9),'bsbt':_0x1a32e8(0x1fb),'zahir':_0x1a32e8(0x1f5),'zeks':_0x1a32e8(0x210),'zekais':_0x1a32e8(0x1f2),'hardianto':_0x1a32e8(0x202),'pencarikode':_0x1a32e8(0x20f),'erdwepe':_0x1a32e8(0x209),'lolhuman':'https://api.lolhuman.xyz','LeysCoder':_0x1a32e8(0x200)},global[_0x1a32e8(0x1ff)]={'https://zenzapis.xyz':_0x1a32e8(0x20d),'https://melcanz.com':_0x1a32e8(0x205),'https://hardianto.xyz':'hardianto','https://api.xteam.xyz':'Dawnfrostkey','https://zahirr-web.herokuapp.com':_0x1a32e8(0x20b),'https://bsbt-api-rest.herokuapp.com':'benniismael','https://server-api-rey.herokuapp.com':_0x1a32e8(0x20c),'https://api.zeks.xyz':'apivinz','https://hardianto-chan.herokuapp.com':'hardianto','https://pencarikode.xyz':_0x1a32e8(0x1f0),'https://leyscoders-api.herokuapp.com':_0x1a32e8(0x1fd),'https://zekais-api.herokuapp.com':_0x1a32e8(0x1f8),'https://api.lolhuman.xyz':'pelitbetsihluwh'});function _0x2635(){var _0x254d9e=['APIKeys','https://leyscoders-api.herokuapp.com','https://bx-hunter.herokuapp.com','https://hardianto-chan.herokuapp.com','APIs','http://bochil.ddns.net','elaina','http://nzcha-apii.herokuapp.com','23240MWEtdw','2mgCnbp','https://erdwpe-api.herokuapp.com','4057560PxhLYH','zahirgans','apirey','4ad2c1556c','https://hardianto.xyz','https://pencarikode.xyz','https://api.zeks.xyz','12881pMnlwi','https://neoxr-api.herokuapp.com','5455EMlIaQ','618qCuUOC','https://api.xteam.xyz','6307182QLPFhR','pais','5333697XNqdoy','http://zekais-api.herokuapp.com','https://zenzapis.xyz','16SRFgTg','https://zahirr-web.herokuapp.com','https://api.fdci.se','544763FimhMg','zekais','https://api.dhamzxploit.my.id','https://melcanz.com','https://bsbt-api-rest.herokuapp.com','https://jonaz-api-v2.herokuapp.com','dappakntlll','4041952CDMDxA'];_0x2635=function(){return _0x254d9e;};return _0x2635();}
 //═══════[modification]════════\\
-global.owner = ['919628516236','916307151530','918953092716' , '919330953026' , '918101187835'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['919628516236'] //another owner number
-global.premium = ['919628516236'] //premium number
-global.pengguna = 'Zero-Two' //username
-global.botnma = 'Zero-Two' //bot name
+global.owner = process.env.BOT_OWNER || ['919628516236','916307151530','918953092716' , '919330953026' , '918101187835'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['919628516236' , '918101187835'] //another owner number
+global.premium = ['919628516236' , '918101187835'] //premium number
+global.pengguna = 'Zero Two Dev Edition' //username
+global.port = process.env.PORT || 5000
+global.botnma = process.env.botnma || 'Zero Two Dev Edition ' //bot name
 global.watermark = "ENJOY WITH ZERO TWO"
 global.dogeemoji = "✨"
-global.botname = 'Zero-Two'
-global.ownernma = 'Team Zero Two' //owner name
-global.ownername = 'Zero Two' //owner name
+global.botname = process.env.BOT_NAME || 'Zero-Two '
+global.ownernma = 'Ikshwaku Pandey' //owner name
+global.ownername = process.env.OWNER_NAME || 'Ikshwaku Pandey' //owner name
+global.mongodb = process.env.MONGODB_URI || "No_URI"  // Mongo db secret URI
 global.packname = 'Zero-Two ' //sticker package name
 global.author = 'Dont Steal' //sticker author name
 global.sessionName = 'session.sam' //session name
-global.linkgrupss = "https://instagam.com/ikshwaku.pandey" //ur gc link
-global.linkgrupss2 = "https://instagram.com/ikshwaku.pandey" //ur gc link2
-global.websitex = "https://instagram.com/ikshwaku.pandey" //ur website
+global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
+global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
+global.websitex = "https://github.com/SamPandey001/Zero-Two-MD" //ur website
 global.prefa = ['-'] //prefix
 global.sp = '✨' //design
 global.mess = {
