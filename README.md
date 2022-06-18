@@ -9,15 +9,15 @@
 ![Total Repo views](https://gpvc.arturio.dev/sampandey001)
                                                                                                                                              
 ### How to enable Zero-Two On your number
-- 1 First Open `Github Link Of Zero Two`
-- 2 Click on Fork Button upwards right corner
-- 3 Click on deploy button and have patience,process may take upto 10 min
+-   First Open `Github Link Of Zero Two`
+-  Click on Fork Button upwards right corner
+-  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
 - `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
-- Wait 12 second and Tap on `Open App`
-- Scan Qr and your bot is working now
-- type -json and you'll get your session.sam.json text
-- Go in your forked repo create file with name session.sam.json and paste it there
-- Connect Your app with GitHub and deploy branch and it's `Done`.
+-  Wait 12 second and Tap on `Open App`
+-  Scan Qr and your bot is working now
+-  type -json and you'll get your session.sam.json text
+-  Go in your forked repo create file with name session.sam.json and paste it there
+-  Connect Your app with GitHub and deploy branch and it's `Done`.
 
 - `Thank me later.`
 
