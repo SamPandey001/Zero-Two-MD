@@ -37,8 +37,8 @@
             "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
         },
         {
-     "url": "https://github.com/ItsJimi/heroku-buildpack-pm2"
-    },
+             "url": "https://github.com/ItsJimi/heroku-buildpack-pm2"
+         },
         {
             "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
         }
