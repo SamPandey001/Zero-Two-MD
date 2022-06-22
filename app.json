@@ -34,9 +34,6 @@
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
         },
         {
-            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
-        },
-        {
      "url": "https://github.com/ItsJimi/heroku-buildpack-pm2"
     },
         {
