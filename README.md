@@ -22,6 +22,8 @@
 -  Connect Your app with GitHub and deploy branch and it's `Done`.
 
 - `Thank me later.`
+  
+  [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two-Md?outputonly=1&lite=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
