@@ -16,7 +16,7 @@
     "BOT_OWNER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")"
     },
-    "MONGODB_URI": {
+    "MONGODB": {
       "description": "A secret String for Mongodb Connection.(Required)"
     },
     "SPACK_NAME": {
