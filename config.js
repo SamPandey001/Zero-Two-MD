@@ -31,8 +31,8 @@ global.log0 = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
 
-global.ytname = "YT: Fantox Gaming"
-global.location = "India, West-Bengal, Kolkata"
+global.ytname = "YT: Zero Two Multi Device"
+global.location = "India, Sultanpur, Uttar Pradesh"
 global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
 global.antitags = true
 global.rkyt = []
@@ -47,27 +47,29 @@ global.wlcm = []
 global.gcrevoke = []
 var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x2635();return _0x41cc=function(_0x41cc3a,_0x231162){_0x41cc3a=_0x41cc3a-0x1ee;var _0x1a7446=_0x2635b7[_0x41cc3a];return _0x1a7446;},_0x41cc(_0x40a8d6,_0x3701e2);}(function(_0x1ecbf2,_0x7bdf04){var _0x5aa09a=_0x41cc,_0x3df619=_0x1ecbf2();while(!![]){try{var _0x5cc6d3=-parseInt(_0x5aa09a(0x1f7))/0x1*(-parseInt(_0x5aa09a(0x208))/0x2)+-parseInt(_0x5aa09a(0x20a))/0x3+parseInt(_0x5aa09a(0x1fe))/0x4+-parseInt(_0x5aa09a(0x213))/0x5*(parseInt(_0x5aa09a(0x214))/0x6)+-parseInt(_0x5aa09a(0x1ef))/0x7+parseInt(_0x5aa09a(0x1f4))/0x8*(-parseInt(_0x5aa09a(0x1f1))/0x9)+-parseInt(_0x5aa09a(0x207))/0xa*(-parseInt(_0x5aa09a(0x211))/0xb);if(_0x5cc6d3===_0x7bdf04)break;else _0x3df619['push'](_0x3df619['shift']());}catch(_0x2d5d82){_0x3df619['push'](_0x3df619['shift']());}}}(_0x2635,0xb11de),global[_0x1a32e8(0x203)]={'zenz':_0x1a32e8(0x1f3),'amel':_0x1a32e8(0x1fa),'bx':_0x1a32e8(0x201),'hardianto':_0x1a32e8(0x20e),'jonaz':_0x1a32e8(0x1fc),'neoxr':_0x1a32e8(0x212),'xteam':_0x1a32e8(0x1ee),'nzcha':_0x1a32e8(0x206),'bg':_0x1a32e8(0x204),'fdci':_0x1a32e8(0x1f6),'rey':'https://server-api-rey.herokuapp.com','dzx':_0x1a32e8(0x1f9),'bsbt':_0x1a32e8(0x1fb),'zahir':_0x1a32e8(0x1f5),'zeks':_0x1a32e8(0x210),'zekais':_0x1a32e8(0x1f2),'hardianto':_0x1a32e8(0x202),'pencarikode':_0x1a32e8(0x20f),'erdwepe':_0x1a32e8(0x209),'lolhuman':'https://api.lolhuman.xyz','LeysCoder':_0x1a32e8(0x200)},global[_0x1a32e8(0x1ff)]={'https://zenzapis.xyz':_0x1a32e8(0x20d),'https://melcanz.com':_0x1a32e8(0x205),'https://hardianto.xyz':'hardianto','https://api.xteam.xyz':'Dawnfrostkey','https://zahirr-web.herokuapp.com':_0x1a32e8(0x20b),'https://bsbt-api-rest.herokuapp.com':'benniismael','https://server-api-rey.herokuapp.com':_0x1a32e8(0x20c),'https://api.zeks.xyz':'apivinz','https://hardianto-chan.herokuapp.com':'hardianto','https://pencarikode.xyz':_0x1a32e8(0x1f0),'https://leyscoders-api.herokuapp.com':_0x1a32e8(0x1fd),'https://zekais-api.herokuapp.com':_0x1a32e8(0x1f8),'https://api.lolhuman.xyz':'pelitbetsihluwh'});function _0x2635(){var _0x254d9e=['APIKeys','https://leyscoders-api.herokuapp.com','https://bx-hunter.herokuapp.com','https://hardianto-chan.herokuapp.com','APIs','http://bochil.ddns.net','elaina','http://nzcha-apii.herokuapp.com','23240MWEtdw','2mgCnbp','https://erdwpe-api.herokuapp.com','4057560PxhLYH','zahirgans','apirey','4ad2c1556c','https://hardianto.xyz','https://pencarikode.xyz','https://api.zeks.xyz','12881pMnlwi','https://neoxr-api.herokuapp.com','5455EMlIaQ','618qCuUOC','https://api.xteam.xyz','6307182QLPFhR','pais','5333697XNqdoy','http://zekais-api.herokuapp.com','https://zenzapis.xyz','16SRFgTg','https://zahirr-web.herokuapp.com','https://api.fdci.se','544763FimhMg','zekais','https://api.dhamzxploit.my.id','https://melcanz.com','https://bsbt-api-rest.herokuapp.com','https://jonaz-api-v2.herokuapp.com','dappakntlll','4041952CDMDxA'];_0x2635=function(){return _0x254d9e;};return _0x2635();}
 //═══════[modification]════════\\
-global.owner = process.env.BOT_OWNER || ['919628516236','916307151530','918953092716' , '919330953026' , '918101187835'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.owner = process.env.owner || ['919628516236','916307151530','918953092716'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['919628516236' , '918101187835'] //another owner number
 global.premium = ['919628516236' , '918101187835'] //premium number
-global.pengguna = 'Zero Two Dev Edition' //username
+global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
+global.mongodb = process.env.MONGODB || "NO-URI"
+
 global.port = process.env.PORT || 5000
-global.botnma = process.env.botnma || 'Zero Two Dev Edition ' //bot name
+global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
 global.watermark = "ENJOY WITH ZERO TWO"
 global.dogeemoji = "✨"
-global.botname = process.env.BOT_NAME || 'Zero-Two '
+global.botname = process.env.botnamw || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'
 global.ownernma = 'Ikshwaku Pandey' //owner name
-global.ownername = process.env.OWNER_NAME || 'Ikshwaku Pandey' //owner name
-global.mongodb = process.env.MONGODB_URI || "No_URI"  // Mongo db secret URI
-global.packname = process.env.SPACK_NAME || 'Zero-Two ' //sticker package name
+global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
+global.packname = 'Zero-Two' //sticker package name
 global.author = 'Dont Steal' //sticker author name
 global.sessionName = 'session.sam' //session name
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
-global.websitex = "https://github.com/SamPandey001/Zero-Two-MD" //ur website
+global.websitex = "https://ZeroTwoMd.tech" //ur website
 global.prefa = ['-'] //prefix
 global.sp = '✨' //design
 global.mess = {
+    help_desc: 'This Command Shows you complete help Description. ✓',
     success: 'Done ✓',
     admin: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒅𝒎𝒊𝒏  ',
     botAdmin: '𝑰𝒇 𝒚𝒐𝒖 𝒓𝒆𝒂𝒍𝒍𝒚 𝒘𝒂𝒏𝒕 𝒎𝒆 𝒕𝒐 𝒅𝒐 𝒕𝒉𝒂𝒕,𝑮𝒊𝒗𝒆 𝒎𝒆 𝒂𝒅𝒎𝒊𝒏 𝒑𝒓𝒊𝒗𝒊𝒍𝒆𝒈𝒆❗',
@@ -82,6 +84,35 @@ global.mess = {
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
+global.reac = {
+            cry:'Cried with',
+            kiss: 'Kissed',
+            bully:'Bullied',
+            hug:'Hugged',
+            lick:'Licked',
+            cuddle:'Cuddled with',
+            pat: 'Patted',
+            smug: 'Smugged at',
+            highfive: 'High-fived',
+            bonk:'Bonked',
+            yeet: 'Yeeted',
+            blush: 'Blushed at',
+            wave: 'Waved at',
+            smile: 'Smiled at',
+            handhold: 'is Holding Hands with',
+            nom: 'is Eating with',
+            bite:'Bit',
+            glomp:'Glomped',
+            kill: 'Killed',
+            slap: 'Slapped',
+            cringe: 'Cringed at',
+            kick: 'Kicked',
+            wink: 'Winked at',
+            happy: 'is Happy with',
+            awoo: 'is idk',
+            poke: 'Poked',
+            dance:'is Dancing with'
+        }
 global.limitawal = {
     premium: "Infinity", //premium user limit
     free: 40 //free user limit
