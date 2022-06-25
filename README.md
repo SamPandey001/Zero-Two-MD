@@ -17,8 +17,8 @@
 - `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
 -  Wait 12 second and Tap on `Open App`
 -  Scan Qr and your bot is working now
--  type -json and you'll get your session.sam.json text
--  Go in your forked repo create file with name session.sam.json and paste it there
+-  type -session and you'll get your session.sam.json file at your log number
+-  Go in your forked repo tap on `Upload Files` and upload your session.sam.json
 -  Connect Your app with GitHub and deploy branch and it's `Done`.
 
 - `Thank me later.`
