@@ -23,7 +23,7 @@
 
 - `Thank me later.`
   
- [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/BbNDz0PbnIk)
+ [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/PZAz6pJcC8I)
   
  [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two)
 
