@@ -18,7 +18,7 @@
 
 - `Thank me later.`
   
- [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/PZAz6pJcC8I)
+ [YOUTUBE COMPLETE TUTORIAL ](https://youtu.be/PZAz6pJcC8I)
   
  [SCAN QR](https://citels.herokuapp.com)
   
