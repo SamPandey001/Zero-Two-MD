@@ -1,10 +1,5 @@
 <h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 <br></h1>
 
-
-
-
-  
-
                                                                                                                                              
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
@@ -22,8 +17,6 @@
   
  [SCAN QR](https://citels.herokuapp.com)
   
-
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
 ## Whatsapp Group
