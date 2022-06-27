@@ -13,13 +13,10 @@
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
--  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
+-  Click on `Scan Qr` button down blew
+-  Open WhatsApp > Tap on three dot > Linked Devices > 
 - `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  Wait 12 second and Tap on `Open App`
--  Scan Qr and your bot is working now
--  type -session and you'll get your session.sam.json file at your log number
--  Go in your forked repo tap on `Upload Files` and upload your session.sam.json
--  Connect Your app with GitHub and deploy branch and it's `Done`.
+-  
 
 - `Thank me later.`
   
@@ -27,7 +24,7 @@
   
  [SCAN QR](https://citels.herokuapp.com)
   
- [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
