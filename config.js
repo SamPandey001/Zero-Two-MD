@@ -13,7 +13,7 @@
                                                                        this copyright section.
                                                                        
                                                                        OtherWise We will sue you for sure.
-                                                                       Thanks to Team Zero and Xeon
+                                                                     Thanks to Team Zero and Xeon
                                                                         
 */
 
