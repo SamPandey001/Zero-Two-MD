@@ -13,10 +13,15 @@
     "OWNER_NAME": {
     "description": "Name of Bot Owner"
     },
+     "SESSION_ID": {
+
+    "description": "Put your Sessin ID which you got from citels.herokuapp.com "
+
+    },
     "BOT_OWNER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")"
     },
-    "MONGODB": {
+    "MONGODB_URI": {
       "description": "A secret String for Mongodb Connection.(Required)"
     },
     "SPACK_NAME": {
@@ -24,7 +29,7 @@
        "required": false
       
     }
-   },
+  },
    
 
     "buildpacks": [{
