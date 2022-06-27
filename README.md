@@ -25,7 +25,8 @@
   
  [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/PZAz6pJcC8I)
   
-  [SCAN QR](https://citels.herokuapp.com)
+ [SCAN QR](https://citels.herokuapp.com)
+  
  [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
