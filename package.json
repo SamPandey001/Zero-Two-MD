@@ -40,6 +40,7 @@
    "discord-canvas": "^1.4.1",
    "discord-xp": "^1.1.16",
    "mongoose": "^6.2.1",
+   "pastebin-js": "^1.0.6",
   "express": "^4.17.1",
   "emoji-api": "^1.0.2",
   "genius-lyrics": "^4.3.6",
