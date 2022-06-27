@@ -14,9 +14,11 @@
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
 -  Click on `Scan Qr` button down blew
--  Open WhatsApp > Tap on three dot > Linked Devices > 
+-  Open WhatsApp > Tap on three dot > Linked Devices > `Link a Device`
+- You'll get `session.sam.json` in your log number upload that to forked repo
+- Click on Deploy purple 💜 button down blew and fill config var and tap on deploy
 - `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  
+-  Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
   
