@@ -1,6 +1,7 @@
 <h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 <br></h1>
 
-                                                                                                                                             
+   
+### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
