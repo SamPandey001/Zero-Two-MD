@@ -271,7 +271,7 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD?ref=badge_shield)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon)
 
 | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
 
