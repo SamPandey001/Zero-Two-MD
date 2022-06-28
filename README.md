@@ -288,7 +288,7 @@ Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | 
 This project is protected by `GNU General Public Licence v3.0` license.
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD?ref=badge_large)
+
 
 ## Contributing
 Feel free to contribute.
