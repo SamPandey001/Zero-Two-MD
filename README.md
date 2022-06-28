@@ -271,7 +271,8 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD?ref=badge_shield)
+| [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
 ----|----|----|----|----
 [XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
@@ -280,6 +281,9 @@ Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | 
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSamPandey001%2FZero-Two-MD?ref=badge_large)
 
 ## Contributing
 Feel free to contribute.
