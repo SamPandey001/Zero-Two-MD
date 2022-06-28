@@ -15,7 +15,7 @@
 - `Thank me later.`
 
   
- [YOUTUBE COMPLETE TUTORIAL ](https://youtu.be/PZAz6pJcC8I)
+ [!(https://telegra.ph/file/4f9e06a36784778cb8f44.jpg)](https://youtu.be/PZAz6pJcC8I)
   
  [SCAN QR](https://citels.herokuapp.com)
   
