@@ -30,6 +30,15 @@
        "required": false
       
     }
+     "SPACK_AUTHOR": {
+
+      "description": "Put Your Sticker Pack Author NAME here.",
+
+       "required": false
+
+      
+
+    }
   },
    
 
