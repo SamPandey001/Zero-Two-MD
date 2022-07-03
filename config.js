@@ -58,8 +58,8 @@ global.dogeemoji = "✨"
 global.botname = process.env.botnamw || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'
 global.ownernma = 'Ikshwaku Pandey' //owner name
 global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
-global.packname = 'Zero-Two' //sticker package name
-global.author = 'Dont Steal' //sticker author name
+global.packname = process.env.SPACK_NAME || 'Zero-Two' //sticker package name
+global.author = process.env.SPACK_AUTHOR || 'Dont Steal' //sticker author name
 global.sessionName = process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
