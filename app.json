@@ -29,7 +29,7 @@
       "description": "Put Your Sticker Pack Name",
        "required": false
       
-    }
+    },
      "SPACK_AUTHOR": {
 
       "description": "Put Your Sticker Pack Author NAME here.",
