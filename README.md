@@ -6,6 +6,7 @@
 
 </p>
 
+
 <p align="center"> 
 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.

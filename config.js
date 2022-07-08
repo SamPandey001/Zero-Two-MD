@@ -24,10 +24,10 @@ global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
-global.thum = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
-global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
+global.thum = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur error pic
+global.thumb = fs.readFileSync("./ZeroTwoMedia/image3.jpg")
 
 global.ytname = "YT: Zero Two Multi Device"
 global.location = "India, Sultanpur, Uttar Pradesh"
@@ -58,59 +58,20 @@ global.dogeemoji = "✨"
 global.botname = process.env.botnamw || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'
 global.ownernma = 'Ikshwaku Pandey' //owner name
 global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
-global.packname = process.env.SPACK_NAME || 'Zero-Two' //sticker package name
-global.author = process.env.SPACK_AUTHOR || 'Dont Steal' //sticker author name
-global.sessionName = process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID
+global.packname = 'Zero-Two' //sticker package name
+global.author = 'Dont Steal' //sticker author name
+global.sessionName = process.env.SESSION_ID || 'UnFNREdNQU4='
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
 global.websitex = "https://ZeroTwoMd.tech" //ur website
 global.prefa = ['-'] //prefix
 global.sp = '✨' //design
-global.mess = {
-    help_desc: 'This Command Shows you complete help Description. ✓',
-    success: 'Done ✓',
-    admin: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒅𝒎𝒊𝒏  ',
-    botAdmin: '𝑰𝒇 𝒚𝒐𝒖 𝒓𝒆𝒂𝒍𝒍𝒚 𝒘𝒂𝒏𝒕 𝒎𝒆 𝒕𝒐 𝒅𝒐 𝒕𝒉𝒂𝒕,𝑮𝒊𝒗𝒆 𝒎𝒆 𝒂𝒅𝒎𝒊𝒏 𝒑𝒓𝒊𝒗𝒊𝒍𝒆𝒈𝒆❗',
-    owner: '𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐋𝐨𝐫𝐝 𝐎𝐰𝐧𝐞𝐫 ' ,
-    group: '𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔! ',
-    private: '𝚃𝚑𝚒𝚜 𝙵𝚎𝚊𝚝𝚞𝚛𝚎 𝚒𝚜 𝙾𝚗𝚕𝚢 𝙵𝚘𝚛 𝙿𝚛𝚒𝚟𝚊𝚝𝚎 𝙲𝚑𝚊𝚝!',
-    bot: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓',
-    wait: '𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link dude?',
-    ban: 'You are banned by the owner, if you want to be unbanned, chat with owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
-}
-global.reac = {
-            cry:'Cried with',
-            kiss: 'Kissed',
-            bully:'Bullied',
-            hug:'Hugged',
-            lick:'Licked',
-            cuddle:'Cuddled with',
-            pat: 'Patted',
-            smug: 'Smugged at',
-            highfive: 'High-fived',
-            bonk:'Bonked',
-            yeet: 'Yeeted',
-            blush: 'Blushed at',
-            wave: 'Waved at',
-            smile: 'Smiled at',
-            handhold: 'is Holding Hands with',
-            nom: 'is Eating with',
-            bite:'Bit',
-            glomp:'Glomped',
-            kill: 'Killed',
-            slap: 'Slapped',
-            cringe: 'Cringed at',
-            kick: 'Kicked',
-            wink: 'Winked at',
-            happy: 'is Happy with',
-            awoo: 'is idk',
-            poke: 'Poked',
-            dance:'is Dancing with'
-        }
+module.exports = {
+  BRANCH: 'franxx',
+  VERSION: process.env.VERSION === undefined ? 'v.1.8' : process.env.VERSION,
+ LANG: process.env.LANGUAGE === undefined ? 'en' : process.env.LANGUAGE.toUpperCase(),
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
+};
 global.limitawal = {
     premium: "Infinity", //premium user limit
     free: 40 //free user limit
