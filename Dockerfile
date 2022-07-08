@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM quay.io/sampandey001/zerotwomd:main
 RUN git clone https://github.com/SamPandey001/Zero-Two-MD.git /root/SamPandey001
 WORKDIR /root/SamPandey001/
 RUN apt-get update && \
