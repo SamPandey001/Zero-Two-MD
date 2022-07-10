@@ -19,7 +19,7 @@
 -  Click on `Scan Qr` button down blew
 -  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
 -  You'll get `SESSION_ID` in your log number,Keep it safe
--  Click on `Deploy` purple 💜 button down blew 
+-  Click on `Deploy` text in Image down blew 
 -  Fill `Config Vars` and SESSION_ID which you acquired before and Tap on `DEPLOY`
 -  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
 -  Bot is Working Now,Enjoy ♥️
