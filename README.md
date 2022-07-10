@@ -33,7 +33,7 @@
   
 [![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png](https://youtu.be/rqbeusycfHU)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
 ## Whatsapp Group
 
