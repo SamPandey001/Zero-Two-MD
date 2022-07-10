@@ -29,9 +29,11 @@
   
 
   
-[![](https://telegra.ph/file/4f9e06a36784778cb8f44.jpg)](https://ZeroTwoMd.tech/#qrcode)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/image%20(1).png)](https://ZeroTwoMd.tech/#qrcode)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/image%20(2).png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/image%20(3).png)](https://youtu.be/rqbeusycfHU)
 
 ## Whatsapp Group
 
