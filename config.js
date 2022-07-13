@@ -49,7 +49,7 @@ global.owner = process.env.owner || ['919628516236','916307151530','918953092716
 global.pemilik = ['919628516236' , '918101187835'] //another owner number
 global.premium = ['919628516236' , '918101187835'] //premium number
 global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
-global.mongodb = process.env.MONGODB || "No-URI"
+global.mongodb = process.env.MONGODB_URI || "No-URI"
 
 global.port = process.env.PORT || 5000
 global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
