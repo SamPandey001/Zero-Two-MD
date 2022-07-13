@@ -17,7 +17,7 @@
 */
 const fs = require('fs')
 const chalk = require('chalk')
-
+//git test by Sam    huh
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
@@ -30,7 +30,7 @@ global.err4r = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image3.jpg")
 
 global.ytname = "YT: Zero Two Multi Device"
-global.location = "India, Sultanpur, Uttar Pradesh"
+global.location = "Sultanpur, Uttar Pradesh, India"
 global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
 global.antitags = true
 global.rkyt = []
@@ -49,7 +49,7 @@ global.owner = process.env.owner || ['919628516236','916307151530','918953092716
 global.pemilik = ['919628516236' , '918101187835'] //another owner number
 global.premium = ['919628516236' , '918101187835'] //premium number
 global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
-global.mongodb = process.env.MONGODB_URI || "No-URI"
+global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 
 global.port = process.env.PORT || 5000
 global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
@@ -60,16 +60,22 @@ global.ownernma = 'Ikshwaku Pandey' //owner name
 global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
 global.packname = 'Zero-Two' //sticker package name
 global.author = 'Dont Steal' //sticker author name
-global.sessionName = process.env.SESSION_ID || 'No-Session'
+global.sessionName = process.env.SESSION_ID || 'SESSION_ID'
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
 global.websitex = "https://ZeroTwoMd.tech" //ur website
 global.prefa = ['-'] //prefix
 global.sp = '✨' //design
 module.exports = {
+  HEROKU: {
+        HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
+        API_KEY: process.env.HEROKU_API_KEY === undefined ? 'NO-API-KEY' : process.env.HEROKU_API_KEY,
+        APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'Zero-Two-Md' : process.env.HEROKU_APP_NAME
+    },
   BRANCH: 'franxx',
   VERSION: process.env.VERSION === undefined ? 'v.1.8' : process.env.VERSION,
  LANG: process.env.LANGUAGE === undefined ? 'en' : process.env.LANGUAGE.toUpperCase(),
+ SUPPORT: "120363040838753957@g.us",
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 global.limitawal = {
