@@ -26,8 +26,8 @@
 
 - `Thank me later.`
 # Main Features of Bot
-- Auto Nsfw detection with percentage
-- A Perfect AI
+- First Whatsapp Bot with Auto Nsfw detection with percentage
+- First whatsapp bot with NLP AI
 - Scribd link unlocker
 - Torrent Search
 - Translator for any language
