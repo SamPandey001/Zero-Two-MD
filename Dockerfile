@@ -15,4 +15,4 @@ RUN npm install --location=global chalk
 RUN npm i cfonts
 RUN npm install --location=global pm2
 RUN npm i --location=global heroku
-CMD ["pm2-runtime", "start", "franxx.js"]
+CMD ["node", "franxx.js"]
