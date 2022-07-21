@@ -13,6 +13,6 @@ RUN npm install --location=global nodemon
 RUN npm --omit=dev install
 RUN npm install --location=global chalk
 RUN npm i cfonts
-RUN npm install --location=global pm2
+RUN npm install --location=global forever
 RUN npm i --location=global heroku
 CMD ["node", "franxx.js"]

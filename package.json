@@ -10,7 +10,7 @@
   }, 
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm i --location=global pm2 && pm2 start franxx.js "
+    "start": "forever start franxx.js "
     },
   "keywords": [
     "termux",
