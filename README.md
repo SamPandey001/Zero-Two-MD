@@ -28,6 +28,7 @@
 # Main Features of Bot
 - First Whatsapp Bot with `Auto Nsfw detection with percentage`
 - First whatsapp bot with `NLP AI`
+- text to Sticker(like Quotely Telegram Bot)
 - Scribd link unlocker
 - Torrent Search
 - Translator for any language
