@@ -1,1 +1,1 @@
-worker: forever franxx.js
+worker: npm i --location=global forever && forever franxx.js
