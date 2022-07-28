@@ -5,7 +5,7 @@
   "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "multi device"],
   "success_url": "/",
-  "stack": "heroku-20",
+
 "env": {
   "BOT_NAME": {
   "description": "Name of your bot",
@@ -15,11 +15,8 @@
   "description": "Name of Bot Owner",
       "value": "Ikshwaku Pandey"
   },
-   "SESSION_ID": {
+   
 
-  "description": "Session ID "
-
-  },
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "919628516236"
