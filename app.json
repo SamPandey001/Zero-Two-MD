@@ -2,7 +2,7 @@
   "name": "Zero-Two-Md",
   "description": "A Whatsapp md bot build with nodejs",
   "repository": "https://github.com/sampandey001/Zero-Two-Md",
-  "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
+  "logo": "https://user-images.githubusercontent.com/104565822/177012232-97866d97-0798-4ca2-9e56-5d0a2413642b.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "multi device"],
   "success_url": "/",
 
@@ -15,8 +15,6 @@
   "description": "Name of Bot Owner",
       "value": "Ikshwaku Pandey"
   },
-   
-
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "919628516236"
@@ -40,13 +38,8 @@
     "description": "Put Your Sticker Pack Name",
      "value": "Zero-Two",
      "required": false
-       
-    
   }
 },
-
- 
-
    "buildpacks": [
     {
       "url": "heroku/nodejs"
