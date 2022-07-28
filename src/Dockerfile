@@ -1,5 +1,5 @@
 FROM node:lts-buster
-RUN git clone https:github.com/SamPandey001/Zero-Two-MDgit /root/SamPandey001/
+RUN git clone https://sampandey001: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@github.com/SamPandey001/MD2.git /root/SamPandey001/
 WORKDIR /root/SamPandey001/
 RUN apt-get update && \
   apt-get install -y \
@@ -16,3 +16,4 @@ RUN npm i cfonts
 RUN npm install --location=global pm2
 
 CMD ["pm2-runtime", "start", "franxx.js"]
+
