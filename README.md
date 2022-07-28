@@ -15,14 +15,12 @@
 ### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
--  Click on Fork Button upwards right corner
--  Click on `Scan Qr` button down blew
--  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
--  You'll get `SESSION_ID` in your log number,Keep it safe
--  Click on `Deploy` text in Image down blew 
--  Fill `Config Vars` and SESSION_ID which you acquired before and Tap on `DEPLOY`
--  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  Bot is Working Now,Enjoy ♥️
+-   Click on Fork Button upwards right corner
+-  Tap Deploy Image down blew and Fill config vars
+-   Tap on Deploy button and wait 1 min
+-   Tap manage and go on `Resources` and turn on web dynos,tap on open app and Scan Qr code from WhatsApp.
+-   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) just change to worker from web.
+-   Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
 # Main Features of Bot
