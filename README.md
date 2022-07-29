@@ -19,7 +19,7 @@
 -  Tap Deploy Image down blew and Fill config vars
 -   Tap on Deploy button and wait 1 min
 -   Tap manage and go on `Resources` and turn on web dynos,tap on open app and Scan Qr code from WhatsApp.
--   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) just change to worker from web.
+-   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) or just switch to worker from web.
 -   Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
