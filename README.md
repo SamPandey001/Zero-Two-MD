@@ -24,6 +24,7 @@
 
 - `Thank me later.`
 # Main Features of Bot
+- PM Permit (Upcoming)
 - First Whatsapp Bot with `Auto Nsfw detection with percentage`
 - First whatsapp bot with `NLP AI`
 - text to Sticker(like Quotely Telegram Bot)
