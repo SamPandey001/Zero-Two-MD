@@ -12,7 +12,10 @@
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
    
-### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
+### This is no longer supported, please consider using”[Secktor-MD](https://github.com/CitelVoid/Secktor-Md) instead.
+
+
+
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
 -   Click on Fork Button upwards right corner
